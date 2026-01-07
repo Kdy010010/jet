@@ -1,0 +1,56 @@
+{
+  "planes": [
+    {
+      "id": "b2",
+      "name": "B-2 Spirit",
+      "spriteUrl": "https://raw.githubusercontent.com/Kdy010010/jet/main/B2.png",
+      "stats": {
+        "hp": 190,
+        "armor": 55,
+        "flare": 2,
+        "attack": 30,
+        "speed": 260,
+        "shotCooldownMs": 280
+      }
+    },
+    {
+      "id": "kf21",
+      "name": "KF-21",
+      "spriteUrl": "https://raw.githubusercontent.com/Kdy010010/jet/main/KF21.png",
+      "stats": {
+        "hp": 140,
+        "armor": 25,
+        "flare": 4,
+        "attack": 22,
+        "speed": 420,
+        "shotCooldownMs": 200
+      }
+    },
+    {
+      "id": "sr71",
+      "name": "SR-71 Blackbird",
+      "spriteUrl": "https://raw.githubusercontent.com/Kdy010010/jet/main/SR71.png",
+      "stats": {
+        "hp": 110,
+        "armor": 10,
+        "flare": 6,
+        "attack": 18,
+        "speed": 560,
+        "shotCooldownMs": 170
+      }
+    },
+    {
+      "id": "t50",
+      "name": "T-50",
+      "spriteUrl": "https://raw.githubusercontent.com/Kdy010010/jet/main/T50.png",
+      "stats": {
+        "hp": 125,
+        "armor": 18,
+        "flare": 5,
+        "attack": 20,
+        "speed": 460,
+        "shotCooldownMs": 190
+      }
+    }
+  ]
+}
